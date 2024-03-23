@@ -1,0 +1,21 @@
+{
+  "Presidents": {
+    "President info": [
+      {
+        "party": "Democrat",
+        "firstName": "Barack",
+        "lastName": "Obama"
+      },
+      {
+        "party": "Democrat",
+        "firstName": "Joe",
+        "lastName": "Biden"
+      },
+      {
+        "party": "Republican",
+        "firstName": "Donald",
+        "lastName": "Trump"
+      }
+    ]
+  }
+  }
